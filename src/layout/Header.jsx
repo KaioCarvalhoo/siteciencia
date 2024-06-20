@@ -16,7 +16,7 @@ export default function Header() {
         <Container>
           <Navbar.Brand href="#home">
             <Image
-              src={require("../assets/images/LogoCiencia.jpg")}
+              src={require("../assets/images/LogoViagens.jpg")}
               alt="logo"
               style={{ width: "100px" }}
             />
@@ -24,8 +24,8 @@ export default function Header() {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link>Quem Somos</Nav.Link>
-              <Nav.Link>Artigos</Nav.Link>
+              <Nav.Link>Pacotes</Nav.Link>
+              <Nav.Link>Rotas</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

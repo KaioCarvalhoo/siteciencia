@@ -6,9 +6,9 @@ export default function Inicial() {
     <Container fluid>
       <Container>
         <CarrosselInicial />
-        <h1>Ciência Explica</h1>
-        <h2>A melhor Site para ler artigos Científico</h2>
-        Aqui e a Sua Casa de Ciência
+        <h1>171 Viagens</h1>
+        <h2>A melhor Site para Viagens do Basilllllll !!!!</h2>
+        Aqui e a Sua Casa de Viagens
       </Container>
     </Container>
   );
